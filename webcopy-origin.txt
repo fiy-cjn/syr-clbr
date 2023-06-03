@@ -1,7 +1,7 @@
 ﻿Uri: https://fiy-cjn.github.io/syr-clbr/?url=https://files.catbox.moe/pii79a.mp4
-File Name: D:\WebCopy\qiantigers.github.io\qq_fanghong\api\index.htm
+File Name: D:\WebCopy\fiy-cjn.github.io\qq_fanghong\api\index.htm
 Content Type: text/html
 
 Uri: https://sdk.51.la/js-sdk-pro.min.js
-File Name: D:\WebCopy\qiantigers.github.io\js-sdk-pro.min.js
+File Name: D:\WebCopy\fiy-cjn.github.io\js-sdk-pro.min.js
 Content Type: application/javascript
